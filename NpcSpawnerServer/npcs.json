@@ -1,0 +1,15 @@
+﻿[
+  {
+    "NPC_Name": "",
+    "Model": "",
+    "Position": {
+      "X": 1.0,
+      "Y": 1.0,
+      "Z": 1.0
+    },
+    "Heading": 1.0,
+    "IsInvincible": true,
+    "IsPositionFrozen": true,
+    "BlockPermanentEvents": true
+  }
+]
